@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+.env
+
+data/raw/
+data/private/
+
+outputs/*
+!outputs/sample_FRTB_capital_output.xlsx
+!outputs/sample_FRTB_standardised_data.xlsx
